@@ -619,6 +619,18 @@
         {
           "type": "STRING",
           "value": "\"system\""
+        },
+        {
+          "type": "STRING",
+          "value": "\"preserve/none\""
+        },
+        {
+          "type": "STRING",
+          "value": "\"preserve/most\""
+        },
+        {
+          "type": "STRING",
+          "value": "\"preserve/all\""
         }
       ]
     },
