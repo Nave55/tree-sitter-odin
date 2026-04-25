@@ -154,6 +154,9 @@ module.exports = grammar({
       '"fast"',
       '"none"',
       '"system"',
+      '"preserve/none"',
+      '"preserve/most',
+      '"preserve/all"',
     ),
 
     overloaded_procedure_declaration: $ => seq(
